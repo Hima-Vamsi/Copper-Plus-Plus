@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.himavamsi.copper_plus_plus.mixin",
+	"compatibilityLevel": "JAVA_16",
+	"mixins": [
+		"CopperMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
