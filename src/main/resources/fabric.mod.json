@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "copper_plus_plus",
+	"version": "${version}",
+	"name": "Copper++",
+	"description": "Copper++ adds copper armor and tools that gradually oxidize over time",
+	"authors": [
+		"Katta Hima Vamsi"
+	],
+	"contact": {
+		"homepage": "https://himavamsi.com/",
+		"sources": "https://github.com/Hima-Vamsi/Copper-Plus-Plus"
+	},
+	"license": "MIT",
+	"icon": "assets/copper_plus_plus/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.himavamsi.copper_plus_plus.Copper"
+		]
+	},
+	"mixins": [
+		"copper_plus_plus.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.17.1",
+		"java": ">=16",
+		"fabric": "*"
+	}
+}
