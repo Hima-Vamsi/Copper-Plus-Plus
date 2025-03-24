@@ -9,5 +9,5 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
     public static final ItemGroup COPPER = FabricItemGroupBuilder.build(new Identifier(Copper.MOD_ID, "copper"),
-            () -> new ItemStack(Items.COPPER_INGOT));
+    () -> new ItemStack(Items.COPPER_INGOT));
 }
