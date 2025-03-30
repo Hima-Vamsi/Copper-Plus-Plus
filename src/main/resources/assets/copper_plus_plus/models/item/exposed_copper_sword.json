@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "copper_plus_plus:item/exposed_copper_sword"
+  }
+}

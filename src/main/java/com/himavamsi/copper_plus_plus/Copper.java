@@ -1,5 +1,6 @@
 package com.himavamsi.copper_plus_plus;
 
+import com.himavamsi.copper_plus_plus.item.GrindstoneRecipes;
 import com.himavamsi.copper_plus_plus.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,7 @@ public class Copper implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		GrindstoneRecipes.registerGrindstoneRecipes();
 		ModItems.registerModItems();
 
 		LOGGER.info("Hello from Copper++");

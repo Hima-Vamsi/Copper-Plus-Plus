@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copper_plus_plus:oxidized_copper_sword"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "copper_plus_plus:waxed_oxidized_copper_sword"
+  }
+}

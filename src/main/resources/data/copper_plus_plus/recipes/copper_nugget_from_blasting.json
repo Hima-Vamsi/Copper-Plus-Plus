@@ -5,16 +5,121 @@
       "item": "copper_plus_plus:copper_pickaxe"
     },
     {
+      "item": "copper_plus_plus:exposed_copper_pickaxe"
+    },
+    {
+      "item": "copper_plus_plus:weathered_copper_pickaxe"
+    },
+    {
+      "item": "copper_plus_plus:oxidized_copper_pickaxe"
+    },
+    {
       "item": "copper_plus_plus:copper_shovel"
+    },
+    {
+      "item": "copper_plus_plus:exposed_copper_shovel"
+    },
+    {
+      "item": "copper_plus_plus:weathered_copper_shovel"
+    },
+    {
+      "item": "copper_plus_plus:oxidized_copper_shovel"
     },
     {
       "item": "copper_plus_plus:copper_axe"
     },
     {
+      "item": "copper_plus_plus:exposed_copper_axe"
+    },
+    {
+      "item": "copper_plus_plus:weathered_copper_axe"
+    },
+    {
+      "item": "copper_plus_plus:oxidized_copper_axe"
+    },
+    {
       "item": "copper_plus_plus:copper_hoe"
     },
     {
+      "item": "copper_plus_plus:exposed_copper_hoe"
+    },
+    {
+      "item": "copper_plus_plus:weathered_copper_hoe"
+    },
+    {
+      "item": "copper_plus_plus:oxidized_copper_hoe"
+    },
+    {
       "item": "copper_plus_plus:copper_sword"
+    },
+    {
+      "item": "copper_plus_plus:exposed_copper_sword"
+    },
+    {
+      "item": "copper_plus_plus:weathered_copper_sword"
+    },
+    {
+      "item": "copper_plus_plus:oxidized_copper_sword"
+    },
+    {
+      "item": "copper_plus_plus:waxed_copper_pickaxe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_exposed_copper_pickaxe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_weathered_copper_pickaxe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_oxidized_copper_pickaxe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_copper_shovel"
+    },
+    {
+      "item": "copper_plus_plus:waxed_exposed_copper_shovel"
+    },
+    {
+      "item": "copper_plus_plus:waxed_weathered_copper_shovel"
+    },
+    {
+      "item": "copper_plus_plus:waxed_oxidized_copper_shovel"
+    },
+    {
+      "item": "copper_plus_plus:waxed_copper_axe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_exposed_copper_axe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_weathered_copper_axe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_oxidized_copper_axe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_copper_hoe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_exposed_copper_hoe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_weathered_copper_hoe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_oxidized_copper_hoe"
+    },
+    {
+      "item": "copper_plus_plus:waxed_copper_sword"
+    },
+    {
+      "item": "copper_plus_plus:waxed_exposed_copper_sword"
+    },
+    {
+      "item": "copper_plus_plus:waxed_weathered_copper_sword"
+    },
+    {
+      "item": "copper_plus_plus:waxed_oxidized_copper_sword"
     }
   ],
   "result": "copper_plus_plus:copper_nugget",

@@ -3,7 +3,8 @@
 	"package": "com.himavamsi.copper_plus_plus.mixin",
 	"compatibilityLevel": "JAVA_16",
 	"mixins": [
-		"CopperMixin"
+		"CopperMixin",
+		"GrindstoneScreenHandlerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

@@ -1,6 +1,13 @@
 {
   "replace": false,
   "values": [
-    "copper_plus_plus:copper_shovel"
+    "copper_plus_plus:copper_shovel",
+    "copper_plus_plus:waxed_copper_shovel",
+    "copper_plus_plus:exposed_copper_shovel",
+    "copper_plus_plus:waxed_exposed_copper_shovel",
+    "copper_plus_plus:weathered_copper_shovel",
+    "copper_plus_plus:waxed_weathered_copper_shovel",
+    "copper_plus_plus:oxidized_copper_shovel",
+    "copper_plus_plus:waxed_oxidized_copper_shovel"
   ]
 }
